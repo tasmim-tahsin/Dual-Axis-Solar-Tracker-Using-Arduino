@@ -196,8 +196,9 @@ void loop() {
 
 ## **Project Demonstration**  
 
-![Image](https://github.com/user-attachments/assets/7df0f985-5d63-49e0-8615-ae1cafa5f54d) 
 Google Drive Link for video demonstration: 
+![Image](https://github.com/user-attachments/assets/8297a0f1-693d-4b50-8cf0-cee4c2eeca67)
+
 
 ---
 
