@@ -196,8 +196,8 @@ void loop() {
 
 ## **Project Demonstration**  
 
-Google Drive Link for video demonstration: 
-![Image](https://github.com/user-attachments/assets/8297a0f1-693d-4b50-8cf0-cee4c2eeca67)
+Google Drive Link for video demonstration: https://drive.google.com/drive/folders/1G3n3rvxma3F90vM00QJjmqxbYikTeg4V?usp=sharing
+![Image](https://github.com/user-attachments/assets/56c0cc42-eea6-4761-9147-f0092b26a4b4)
 
 
 ---
@@ -210,7 +210,10 @@ Google Drive Link for video demonstration:
 
 ## **Contributors**  
 - **Md Tasmim Al Tahsin**  
-- **[Your Team Members]**  
+- **Md Mansur Islam**
+- **Tonima Islam Dristy**  
+- **Intesar Ahmed Siyan**
+- **Rumaiya Islam**
 
 ---
 
@@ -218,5 +221,3 @@ Google Drive Link for video demonstration:
 This project is licensed under the **MIT License** – feel free to use and modify it!  
 
 ---
-
-This README is now **formatted properly for GitHub** with a code section, making it easier to understand and use. Let me know if you need any modifications! 😊
